@@ -1,7 +1,7 @@
 # File Sharing Server
 
 File Sharing Server
-    http://ec2-52-14-212-154.us-east-2.compute.amazonaws.com/~jiwooseo/login.php 
+
 
 
 Login details
